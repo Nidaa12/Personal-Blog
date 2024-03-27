@@ -1,0 +1,3 @@
+git add .
+git commit -m "it is for other files"
+git push origin master
